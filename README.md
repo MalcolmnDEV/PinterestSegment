@@ -93,6 +93,9 @@ ibSegment.setRichTextTitles(titles)
 
 ## Release History
 
+* 1.2.5
+  support SPM
+
 * 1.2.0
   support swift 4.0
 
